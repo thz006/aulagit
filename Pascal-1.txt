@@ -1,0 +1,9 @@
+Program HelloWorld(output);
+var nome :String;
+begin
+writeln('Bom Dia!!');
+writeln('Digite seu nome: ');
+read(nome);
+writeln('Seu nome é: ',nome);
+  
+end.

@@ -1,0 +1,22 @@
+Program media;
+var n1 : real; n2 : real; n3 : real; n4 : real; n5 : real; 
+result : real;
+begin
+    writeln('Digite a idade 1: ');
+    read(n1);
+    writeln('Digite a idade 2: ');
+    read(n2);
+    writeln('Digite a idade 3: ');
+    read(n3);
+    writeln('Digite a idade 4: ');
+    read(n4);
+    writeln('Digite a idade 5: ');
+    read(n5);
+    writeln('calculando...');
+    result :=(n1+n2+n3+n4+n5)/5;
+    writeln(result);
+    
+    
+    
+  
+end.

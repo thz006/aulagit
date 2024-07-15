@@ -1,0 +1,13 @@
+Program Terreno retangular;
+var area: integer; m2: integer; result: integer;
+
+begin
+    m2 := 750;
+    writeln('escreva a área do terreno (em metros quadrados):');
+    read(area);
+    writeln('calculando...');
+    result := area * m2;
+    writeln('o preço será de $',result,',00 de reais: ');
+    
+  
+end.

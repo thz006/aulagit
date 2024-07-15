@@ -1,0 +1,99 @@
+B)
+ALGORITMO
+	A <- 30
+	B <- 20
+	C <- A + B
+	ESCREVER C
+	B <- 10
+	ESCREVER B,C
+	C <- A + B
+	ESCREVER A, B, C
+FIM_ALGORITMO
+ 
+neste algoritmo, ao final, A=30, B=10, C=40.
+
+
+C)
+ALGORITMO
+	A <- 10
+	B <- 20
+	C <- A
+	B <- C
+	A <- B
+	ESCREVER A, B, C
+FIM_ALGORITMO
+
+neste algoritmo, ao final, A=10 , B=10 , C=10
+
+D)
+ALGORITMO
+	A <- 10
+	B <- A + 1
+	A <- B + 1
+	B <- A + 1
+	ESCREVER A
+	A <- B + 1
+	ESCREVER A, B
+FIM_ALGORITMO
+
+neste algoritmo, ao final, A=14 , B=13
+
+E)
+ALGORITMO
+	A <- 10
+	B <- 5
+	C <- A + B
+	B <- 20
+	A <- 10
+	ESCREVER A, B, C
+FIM_ALGORITMO
+
+neste algoritmo, ao final, A=10 , B=20 , C=15
+
+F)
+ALGORITMO
+	X <- 1
+	Y <- 2
+	Z <- Y - X
+	ESCREVER Z
+	X <- 5
+	Y <- X + Z
+	ESCREVER X, Y, Z
+FIM_ALGORITMO
+
+neste algoritmo, ao final, X=5 , Y=6 , Z=1
+
+3)Informe o resultado:
+A)Y= 10; Z= Y + 4; W= Y; W= Z*2; W= Y*W=
+R:280
+
+B)W= 0; Y= 5; Z= Y-2; W= Y+Z*W=
+R:5
+
+C)N1= 9; N2= 0; N3= 5; S= N1+N2+N3; VALOR DE S=
+R:14
+
+D)N1= -2; N2= 5; N3= 7; S= N1+N2+N3; VALOR DE S=
+R:10
+
+E)R= 4; P= 3.14; A= P* (R*R); VALOR DE A:
+R:50,24
+
+4)
+N= 1; M= 2+2*N; N= M+1; P= M+2
+R:N=5 , M=4 , P=6
+
+EXERCÍCIO DE PRECEDÊNCIA
+14)
+
+A)9
+B)-1
+C)0,5
+D)8
+
+15)
+	
+A)Sim
+B)Não
+C)Não
+c)
